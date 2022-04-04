@@ -5,6 +5,6 @@
 // Compile
 $ nasm -f elf64 path/file.asm
 
-// Linkditar - transformar em executavel
+// Linkditar - transform in executable
 $ ld -s -o name name.o
 ```
